@@ -1,6 +1,6 @@
 owner=495014469605392404
 prefix=2
-game=!2Play
+game=2Play
 stayinchannel=true
 songinstatus=false
 token=NTc5OTg1OTI5Nzg4MTk0ODIx.XOKIgQ.c3d_hLguQBLnkBrk6gRvqJKfDrU
